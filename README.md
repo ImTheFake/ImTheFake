@@ -8,4 +8,4 @@ I am also very interested in learning React for app development.
 - I love dogs.
 - My hobbies include anime, going to the gym, and building things.
 - My favorite anime is Naruto.
-- I don't consume sugar, but sweet drinks are my weakness!
+- I don't consume sweets, but sweet drinks are my weakness!
